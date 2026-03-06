@@ -38,6 +38,6 @@ $$
 \end{cases}
 $$
 
-representing the quaternion Poisson kinematic equation, Euler's rotational dynamics, and the linearized reaction wheel model (an aperiodic element with damping coefficient $c_w$), respectively.
+representing the quaternion Poisson kinematic equation, Euler's rotational dynamics, and the linearized reaction wheel model.
 
 See the simulation [results](results/attitude_control_simulation.pdf).
